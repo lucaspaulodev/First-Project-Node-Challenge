@@ -1,3 +1,5 @@
+/* eslint-disable no-param-reassign */
+/* eslint-disable no-return-assign */
 import Transaction from '../models/Transaction';
 
 interface Balance {
